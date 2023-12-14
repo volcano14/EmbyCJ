@@ -71,23 +71,23 @@ http://200.95.184.42:8001/play/a0bf
 http://200.95.184.42:8001/play/a0ap
 #EXTINF:-1 group-title="Películas y series",Warner Channel HD
 http://200.95.184.42:8001/play/a06e
-#EXTINF:-1 group-title="Entretención",Comedy Central HD
+#EXTINF:-1 group-title="Cultura",Comedy Central HD
 http://200.95.184.42:8001/play/a0f5
-#EXTINF:-1 group-title="Entretención",DHE HD
+#EXTINF:-1 group-title="Cultura",DHE HD
 http://200.95.184.42:8001/play/a0dz
-#EXTINF:-1 group-title="Entretención",Discovery H&H HD
+#EXTINF:-1 group-title="Cultura",Discovery H&H HD
 http://200.95.184.42:8001/play/a0al
-#EXTINF:-1 group-title="Entretención",E! HD
+#EXTINF:-1 group-title="Cultura",E! HD
 http://200.95.184.42:8001/play/a0es
-#EXTINF:-1 group-title="Entretención",El Gourmet HD
+#EXTINF:-1 group-title="Cultura",El Gourmet HD
 http://200.95.184.42:8001/play/a074
-#EXTINF:-1 group-title="Entretención",Food Network HD
+#EXTINF:-1 group-title="Cultura",Food Network HD
 http://200.95.184.42:8001/play/foodnetworkhd
-#EXTINF:-1 group-title="Entretención",ID HD
+#EXTINF:-1 group-title="Cultura",ID HD
 http://200.95.184.42:8001/play/idhd
-#EXTINF:-1 group-title="Entretención",Pasiones HD
+#EXTINF:-1 group-title="Cultura",Pasiones HD
 http://200.95.184.42:8001/play/pasioneshd
-#EXTINF:-1 group-title="Entretención",TRUTV HD
+#EXTINF:-1 group-title="Cultura",TRUTV HD
 http://200.95.184.42:8001/play/a073
 #EXTINF:-1 group-title="Noticias",CNN Chile HD
 http://200.95.184.42:8001/play/cnnchilehd
@@ -187,5 +187,25 @@ http://200.95.184.42:8001/play/a0j6
 http://200.95.184.42:8001/play/a0m4
 #EXTINF:-1 group-title="-",Telenovelas
 http://200.95.184.42:8001/play/a0m9
-#EXTINF:-1 group-title="-",Teletrak
+#EXTINF:-1 tvg-id="" tvg-name="CL | TELETRAK" tvg-logo="https://www.teletrak.cl/imagenes/logo.png" group-title="CHILE",CL | TELETRAK
 http://200.95.184.42:8001/play/a0f9
+#EXTINF:-1 tvg-id="XEW1AID" tvg-name="MX: LAS ESTRELLAS" tvg-logo="https://mirror.streamhubtv.ca:443/images/d7b44b54527cfa2090a000e02d8245bc.png" group-title="MEXICO",MX: LAS ESTRELLAS
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
+#EXTINF:-1 tvg-id="XHIMT" tvg-name="MX: Azteca 7" tvg-logo="https://mirror.streamhubtv.ca:443/images/7783a3270a4d12778a5d2fef41b94274.png" group-title="MEXICO",MX: Azteca 7
+https://dai.google.com/linear/hls/event/YHoOj51dSKCvBQOBG2OvLQ/master.m3u8
+#EXTINF:-1 tvg-id="CORAZH" tvg-name="MX: AZ Corazon" tvg-logo="https://mirror.streamhubtv.ca:443/images/1cabfe174e4238b5037ba1ced0ea3e84.png" group-title="MEXICO",MX: AZ Corazon
+https://d2qb5pmzx6v5zn.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2zeijagmuihdw/cz.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+#EXTINF:-1 group-title="-",A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | TELEMUNDO INTERNACIONAL" tvg-logo="https://www.portada-online.com/wp-content/uploads/2013/05/Telemundo-logo.jpg" group-title="LATINO",LA | TELEMUNDO INTERNACIONAL
+http://31.42.185.216:8000/decaicedo22/LYP8385l0j/126532
+#EXTINF:-1 tvg-id="" tvg-name="LA | CARTOON NETWORK" tvg-logo="https://i.pinimg.com/originals/9a/fd/2f/9afd2fd04efbc029d29108b02410ad0e.gif" group-title="LATINO",LA | CARTOON NETWORK
+https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN Deportes" tvg-logo="https://iptvboss.xyz/logos/USA/ESPNDeportes.us.png" group-title="LATINO",LA | ESPN Deportes
+http://sysadminhost.net:8080/F17425/8ffdb770/6446
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="LATINO",LA | ESPN
+http://hardcoremedia.xyz:80/cVaJffq4tT/2939125265/32881
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN 2" tvg-logo="https://www.avcomm.com.au/wp-content/uploads/2017/07/espn2-colour.png" group-title="LATINO",LA | ESPN 2
+http://sysadminhost.net:8080/F17425/8ffdb770/3031
+#EXTINF:-1 tvg-id="" tvg-name="LA | ESPN 3" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg" group-title="LATINO",LA | ESPN 3
+http://sysadminhost.net:8080/F17425/8ffdb770/3032
