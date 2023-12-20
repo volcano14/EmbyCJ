@@ -208,6 +208,6 @@ http://sysadminhost.net:8080/F17425/8ffdb770/3031
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 3" tvg-logo="https://espnpressroom.com/us/files/2012/04/ESPN3-Logo-615x405.jpg" group-title="DEPORTES",DS | ESPN 3
 http://sysadminhost.net:8080/F17425/8ffdb770/3032
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN 4" tvg-logo="https://television-libre.online/img/espn4.webp" group-title="DEPORTES",DS | ESPN 4
-https://clarovideo.librefutboltv.com/mpdk2.html?get=aHR0cHM6Ly9sYXRhbXZvc2xpdmVjbGFyb3ZpZGVvLmFrYW1haXplZC5uZXQvQ29udGVudC9EQVNIX0RBU0hfRksvTGl2ZS9DaGFubmVsKEZPWF9TUE9SVFNfSEQpL21hbmlmZXN0Lm1wZA==&key=NDUwOWNjMTI4ODdmNWQ4NDAyY2M5YzAwMjVlY2RkNTI=&key2=MjM0NDc2NjkwMTQxMGVkNjMwNmU0NDVhOWM0MzI0OWU=
+https://latamvosliveclarovideo.akamaized.net/Content/DASH_DASH_FK/Live/Channel(FOX_SPORTS_HD)/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="DEPORTES | ESPN EXTRA" tvg-logo="https://television-libre.online/img/espn4.webp" https://television-libre.online/img/espnextra.webpgroup-title="DEPORTES",ESPN EXTRA
 http://200.95.184.42:8001/play/a05e
