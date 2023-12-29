@@ -1,4 +1,35 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| LA LIGA TV BAR FHD" tvg-logo="http://obsfullhd.tv:25461/images/659be3dbd517223e32f729858af604b7.png" |ES| LA LIGA TV BAR FHD
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/60922
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BEIN SPORTS ESPANAA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png", |ES| BEIN SPORTS ESPAÑA FHD
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/68081
+#EXTINF:-1 tvg-id="" tvg-name="|ES| BEIN LALIGA FHD" tvg-logo="https://3.bp.blogspot.com/-WmS3VxDHj7s/WLTCDF0FszI/AAAAAAACsA0/csolSRGkSgA8wTJqTWhZPE3NmhNuEwwnwCLcB/w600/beinlaliga.png" group-title="SPAIN LOCAL ", |ES| BEIN LALIGA FHD
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/68080
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LIGA 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png", |ES| MOVISTAR LIGA 2
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/68159
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR LIGA 3" tvg-logo="https://www.vertvcable.com/wp-content/uploads/2022/03/movistar-la-liga-3.jpg", |ES| MOVISTAR LIGA 3
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/68160
+#EXTINF:-1 tvg-id="" tvg-name="|ES| LA LIGATV BAR HD" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png", |ES| LA LIGATV BAR HD
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/68161
+#EXTINF:-1 tvg-id="" tvg-name="ES| LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons/logos/laligatvbar.png", |ES| LALIGATV BAR HD op2
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/76536
+#EXTINF:-1 tvg-id="" tvg-name="ES| LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons/logos/laligatvbar.png", |ES| LALIGATV BAR HD op3
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/76537
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR" tvg-logo="https://i.ytimg.com/vi/tyeszANVosw/maxresdefault.jpg", |ES| LALIGA TV HIPERMOTION
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/76872
+#EXTINF:-1 tvg-id="" tvg-name="||ES|| MOVISTAR LIGA CAMPEONES HD" tvg-logo="http://obsfullhd.tv:25461/images/7ccc72037477a18bc857a423caa99782.png", |ES| MOVISTAR LIGA CAMPEONES HD
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/61040
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA 4K" tvg-logo="s:1:/images/VsbfhsmEnQ3OVcjOsrgrnCH4kffkX4hbWaq41kO7pjw.png", |ES| MOVISTAR LALIGA 4K
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/67973
+#EXTINF:-1 tvg-id="" tvg-name="ES: MOVISTAR LALIGA HD" tvg-logo="https://github.com/Tapiosinn/tv-logos/blob/master/countries/spain/movistar-laliga-es.png?raw=true", |ES| MOVISTAR LALIGA HD
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/67976
+#EXTINF:-1 tvg-id="" tvg-name="|ES| MOVISTAR VAMOS FHD" tvg-logo="https://www.adslzone.net/app/uploads/2018/08/vamos.jpg", |ES| MOVISTAR VAMOS
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/68155
+#EXTINF:-1 tvg-id="" tvg-name="MX: H2" tvg-logo="", |MX| H2
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/54064
+#EXTINF:-1 tvg-id="" tvg-name="MX: Paramount Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es", |MX| Paramount Channel
+http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/54087
+
 #EXTINF:0 type="video" channelId="-1" logo="https://www.themoviedb.org/t/p/w500_and_h282_face/qMyoM2n8SgHGAYfhvj87boODJEm.jpg" aspect-ratio="16:9", Campeonex (2023)
 https://p-def5.pcloud.com/cfZrtFNuOZWSbgeJ7ZVdP17ZZf5Nk7kZQ5ZZMvRZZOS1D4XZzQZjRZfLZOLZc4ZG8ZWRZKHZVpZP4ZcFZQ4ZRLZMzZdqcQTNBG19pTnl8yXI0rYkX8GsJ7/Campeonex.2023.1080p.WEBRip.mkv
 #EXTINF:0 type="video" channelId="-1" logo="https://www.themoviedb.org/t/p/w500_and_h282_face/a2wNCt97RgSs5b8wG5Gztv0GrDV.jpg" aspect-ratio="16:9", Super López (2018)
