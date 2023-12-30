@@ -194,3 +194,12 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_5unfl9
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_yc4fpps5/format/applehttp/protocol/https/flavorIds/1_xl7wog6i,1_9gfmizk8,1_nkjj6gwk,1_6ndpd2xd,1_sppqs1o8,1_smuor5xg,1_fqedp3on,1_dz2lho9z/preferredBitrate/1500/maxBitrate/10000/defaultAudioLang/en/a.m3u8?timestamp=1703924122&id=8939&ip=2806%3A101e%3A11%3A178b%3A1067%3A3c5a%3A2254%3A5af9&override_expiration=1500&sign=Y0ZnCAS6kzr%2BbbVrGLbjJOcp1H9G9TxEYDzKRuDE%2B%2BA%3D&playSessionId=3d5cade6-3328-6eba-0aeb-aa5c123986a8:5c42a02f-3c00-a8c0-5431-427055e7a3c5&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2VsLXBlcnJvLXF1ZS1zYWx2by1sYXMtcGFzY3Vhcw==&clientTag=html5:v7.93
 #EXTINF:0 type="video" channelId="-1" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-zWeUCrfunlVAB4574CJ92juSBxFj0EMHRg&usqp=CAU" aspect-ratio="16:9", Run:Time TV
 https://stream.ads.ottera.tv/cl/231230cm7t47vi6rmjjv1vuha0/1280x720_3071200_0_f.m3u8?i=728_2154
+#EXTINF:0 type="video" channelId="-1" logo="https://img2.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_las_action_bg.jpg" aspect-ratio="16:9", Run:Time Acción
+https://stream.ads.ottera.tv/cl/231230cm7t8rcq67uu22l0s98g/1280x720_3071200_0_f.m3u8?i=728_2550
+#EXTINF:0 type="video" channelId="-1" logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/widescreen/366x206/ca53ff4d-moviesphere_intl_runtime_channeltitle.jpg" aspect-ratio="16:9", Run:Time Moviesphere
+https://amg00353-lionsgatestudio-moviespheremexico-runtimelatam-n6pue.amagi.tv/playlist/amg00353-lionsgatestudio-moviespheremexico-runtimelatam/playlist.m3u8?timestamp=1703924963&id=12047&ip=2806%3A101e%3A11%3A178b%3A1067%3A3c5a%3A2254%3A5af9&override_expiration=1500&sign=BenG%2FUlk%2FcUPYNcb1WtU7JHvR9HF2yS7ZerHaczwzI4%3D&ads.ip=2806%3A101e%3A11%3A178b%3A1067%3A3c5a%3A2254%3A5af9
+#EXTINF:0 type="video" channelId="-1" logo="https://img2.static-ottera.com/prod/run/linear_channel/thumbnails/square/366x206/e68983a1-sangre_fria_1920x1920_0.jpg" aspect-ratio="16:9", Run:Time Sangre Fría
+https://stream.ads.ottera.tv/cl/231230cm7taqnc8up4lcvo7fog/1280x720_3071200_0_f.m3u8?i=728_6130
+#EXTINF:0 type="video" channelId="-1" logo="https://img1.static-ottera.com/prod/run/linear_channel/logo/366x206/runtime_cinespanto_16x9_0.jpg" aspect-ratio="16:9", Run:Time Cinespanto
+https://stream.ads.ottera.tv/cl/231230cm7tba5am06a6e2k0log/1280x720_3071200_0_f.m3u8?i=728_6126
+
