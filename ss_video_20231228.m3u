@@ -27,11 +27,17 @@ http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/67976
 http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/68155
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png", |MX| H2
 http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/54064
+#EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png", |MX| Canal 5
+http://ott1.one:8080/live/qG6wKWhqdW6K/V87fsm9tvQvW/69644.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/41ae5f7/2147483647/strip/true/crop/980x551+0+101/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fhttp%3A%2F%2Fi.lasestrellas.tv%2F2016%2F08%2Festrellas-logo.png", |MX| Canal de las Estrellas
+http://ott1.one:8080/live/qG6wKWhqdW6K/V87fsm9tvQvW/69637.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Distrito Comedia" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300", |MX| Distrito Comedia
+http://ott1.one:8080/live/qG6wKWhqdW6K/V87fsm9tvQvW/69563.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png", |MX| H2 op2
 http://23.227.133.2:25461/live/bTaiS2zHEO/9374928/19913.m3u8?token=QxcKA0ZRRFsTAwABBFJWDgcHUwsFUwZWAFFQWgdUVQQOUwdbBAwEVQRESRFAREdTAA48W1MUWFALWARRHBMUR11HPQtRG1xDBVFQBQMSGRQVCg5XFQxSTRARXAYSC0MDCAZUQBkbAxlFAxddUlxqUgQVClFSFFgPRw1ZThJeD2tcUA8DW11EWxNXRx8RWUZGQ1kNR1taTkNQCEEQUUUEFgJbFw5ZFUQCXhMLR0FJFwxDLjsQGxQHGUYEWxFZXg8WAhcPUUABRE0TDxZsQVVGQhMGAl9SREBbEFEXThJcAExnVg0MW1wFFVgJC0ARChcEQ09BX1hYCxVdE2oSWVVDDhoDWlcGGxs=
 #EXTINF:-1 tvg-id="" tvg-name="ESPN DEPORTES" tvg-logo="https://pbs.twimg.com/profile_images/489525025301467136/EjF7_lKD_400x400.jpeg", |MX| ESPN DEPORTES
 http://23.227.133.2:25461/live/bTaiS2zHEO/9374928/19888.m3u8?token=QxcKA0ZRRFsTA1ZXUlUNVwRSAlRUB1RZAFUNBFJSBw1ZVFoAU1tRAlRESRFAREdTAA48W1MUWFALWQ1aHBMUR11HPQtRG1xDBVFQBQMSGRQVCg5XFQxSTRARXAYSCw9BVFlOQFBBEgRDCARfbFRQQAgABhANWBcNXk0XDV5uBVFVVAwGFwNEUBNKR1pAQBcMDxYPXhsUAAhGE1QWVRNbWk1ZDk4XWgkUXxIXShEKF3s5QU8QUk4WBFwSXA1eE1sWVQYXWhcVRAhCORdWQERHUwAOBkAVDEBREE0XD1FJPldXWwwHVk0PDl8VRwkRAhcaQw4MXF5CDRNtEVwGEgsPQVRZHw==
-#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es", |MX| Paramount Channel
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Paramount_Channel.svg/revision/latest?cb=20200115012544&path-prefix=es", |MX| Paramount Channel
 http://ott1.one:8080/qG6wKWhqdW6K/V87fsm9tvQvW/54087
 #EXTINF:-1 tvg-id="" tvg-name="Canal 2" tvg-logo="https://yt3.googleusercontent.com/lSgyhBeyMKsg5hpijcxG14hXA1_rl334tZzNLNcKep7FvDQLEUCfHBFJSAJz_mUnQzrU58V8dg=s900-c-k-c0x00ffffff-no-rj", |MX| Canal 2
 http://45.155.227.15:2052/live/7009765797/0557846177/27228.m3u8?token=VHM2UWRhbm1wNklPbkl5
