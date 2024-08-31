@@ -120,10 +120,8 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3719.m3u8
 https://channel05.akamaized.net/hls/live/2033783/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png", Canal5 FHD op2
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 group-title="TV_OK", Pasiones HD
-http://redima.pro:8880//live/Pinargoteju/1214/402.m3u8
-#EXTINF:-1 group-title="TV_OK", Pasiones HD op2
-http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/2827.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/41ae5f7/2147483647/strip/true/crop/980x551+0+101/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fhttp%3A%2F%2Fi.lasestrellas.tv%2F2016%2F08%2Festrellas-logo.png", Canal de las Estrellas
 https://8.tutl24.xyz/live/ST4eddddd18a33416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas -1" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/41ae5f7/2147483647/strip/true/crop/980x551+0+101/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fhttp%3A%2F%2Fi.lasestrellas.tv%2F2016%2F08%2Festrellas-logo.png", Canal de las Estrellas -1Hr
@@ -178,19 +176,40 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 #EXTINF:-1 tvg-id="" tvg-name="Azteca 7" tvg-logo="https://w7.pngwing.com/pngs/850/138/png-transparent-logo-azteca-7-tv-azteca-television-channel-3d-computer-graphics-miscellaneous-television-3d-computer-graphics.png", |MX| Azteca 7
 https://vals88.pricesaskeloadsc.com/global/azteca7/index.m3u8?token=fe17362600b6ff68f4b1f1617f1e9c0365b613f4-ac-1725127192-1725091192
 
-
-#EXTINF:-1 group-title="TV_OK" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png", Canal 5
-http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3719.m3u8
 #EXTINF:-1 group-title="TV_OK" logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" aspect-ratio="16:9", Las Estrellas
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3607.m3u8
-#EXTINF:-1 group-title="TV_OK" tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png", A+
-http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3697.m3u8
-#EXTINF:-1 group-title="TV_OK",ADN 40
-http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3699.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png", Canal 5
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3719.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="Azteca 7" tvg-logo="https://w7.pngwing.com/pngs/850/138/png-transparent-logo-azteca-7-tv-azteca-television-channel-3d-computer-graphics-miscellaneous-television-3d-computer-graphics.png", Azteca 7
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/129033.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="Estrellas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png", Estrella TV
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/154741.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="Estrellas TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Estrella_TV_-_2009_Logo.png", Estrella TV
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/154742.m3u8
+#EXTINF:-1 group-title="TV_OK", Pasiones
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/2827.m3u8
+#EXTINF:-1 group-title="TV_OK", Pasiones
+http://redima.pro:8880//live/Pinargoteju/1214/402.m3u8
 #EXTINF:-1 group-title="TV_OK", Azcorazon
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/129030.m3u8
+#EXTINF:-1 group-title="TV_OK", Azcorazon
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145508.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png", A+
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3697.m3u8
+#EXTINF:-1 group-title="TV_OK", ADN 40
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3699.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="MX: DISTRITO COMEDIA" tvg-logo="https://corporate.televisaunivision.com/wp-content/uploads/sites/5/2022/01/descarga-1.png?w=300", Distrito Comedia
+
 #EXTINF:-1 group-title="TV_OK", AXN
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3602.m3u8
+#EXTINF:-1 group-title="TV de Pago" tvg-name="FX" tvg-logo="https://t3.ftcdn.net/jpg/01/44/91/88/360_F_144918835_GC1g98rHEhkk7Ns1pTdXuMPjY35y5NGC.jpg", FX OP2
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/4955.m3u8
+#EXTINF:-1 group-title="TV logo="https://static.wikia.nocookie.net/tvcable/images/1/17/CanalIDLA.png/revision/latest?cb=20231116173622&path-prefix=es" aspect-ratio="16:9", ID - Investigation Discovery
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/135790.m3u8
+#EXTINF:-1 group-title="TV tvg-name="History" tvg-logo="https://www.kindpng.com/picc/m/74-746473_history-channel-logo-png-history-tv-18-hd.png", |AR| HISTORY
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/4966.m3u8
+#EXTINF:-1 group-title="TV tvg-name="H2" tvg-logo="https://www.pngkit.com/png/detail/432-4329573_h2-channel-logo-h2-hd.png", |AR| H2
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/135792.m3u8
 
 
 
@@ -299,8 +318,6 @@ https://live.sdfgnksbounce.com:8080/MTg5LjE1MS45NS4xNzk=/78_.m3u8?token=RV6iMvHR
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/4912.m3u8
 #EXTINF:-1 group-title="TV de Pago" tvg-name="FX" tvg-logo="https://t3.ftcdn.net/jpg/01/44/91/88/360_F_144918835_GC1g98rHEhkk7Ns1pTdXuMPjY35y5NGC.jpg", FX
 https://live.sdfgnksbounce.com:8080/MTg5LjE1MS45NS4xNzk=/70_.m3u8?token=MAuntEHhE_XbNDpKhGVMcA&expires=1725109687
-#EXTINF:-1 group-title="TV de Pago" tvg-name="FX" tvg-logo="https://t3.ftcdn.net/jpg/01/44/91/88/360_F_144918835_GC1g98rHEhkk7Ns1pTdXuMPjY35y5NGC.jpg", FX OP2
-http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/4955.m3u8
 #EXTINF:-1 group-title="TV de Pago" tvg-name="SONY Cine" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a1/CineSONY.png/revision/latest?cb=20210409143828", SONY Cine
 https://live.sdfgnksbounce.com:8080/MTg5LjE1MS4zNC4xOTg=/402_.m3u8?token=jjmoWyAZ1JF6TEgsfrtYig&expires=1717622297
 #EXTINF:-1 group-title="TV de Pago" tvg-name="SONY Competencias" tvg-logo="https://img.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/1linear-sony-one-competencias-16x9_1.jpg", SONY Competencias
