@@ -23,7 +23,7 @@ https://dcs-live-ue4.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?tr
 #EXTINF:-1 tvg-id="" tvg-name="Univisión Deportes" tvg-logo="https://st1.uvnimg.com/47/1c/a0a55ff148aaaf1a36c3d436f3ef/af9c064187254182951f7f6d71508e94", US TUDN FHD
 http://1tv41.icu:8080//live/tandphunt1@gmail.com/AAn4BJhH7f/11885.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Liga 1 Max" tvg-logo="https://larazon.pe/wp-content/uploads/2023/09/liga-1-max.jpg", Liga 1 Max
-https://c3bvcnrz.la10tv.com/lb/liga1max/index.m3u8?token=81c92a3b4ae5b7826096ef17d6bb84b8ebc6158e-714546869a9a28ffaac8d15a361863b7-1725129772-1725093772&remote=189.151.95.179
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/164826.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TuDN" tvg-logo="https://www.debate.com.mx/__export/1557335607128/sites/debate/img/2019/05/08/univision-deportes-evoluciona-y-se-llamarx-tudn_crop1557335565167.jpg_423682103.jpg", TuDN
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/134466.m3u8
@@ -46,6 +46,20 @@ https://linear-365.frequency.stream/mt/studio/365/hls/master/playlist.m3u8
 https://7.tutl24.xyz/live/STf1f42e775154f51.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SKY Sports LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXu5hRfsVFfditJDAWN2YJ5-7us9ImkOmswKlLkrk_WA&s", SKY Sports
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/189725.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQah2g5Z4VQKsRNshNGUu0blAnBe4YtU7ce27NfxF6mjQ&s", DAZN Europa 4K
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/140948.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="DAZN 2", DAZN 2 Europa FHD
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/144815.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="DAZN 3", DAZN 3 Europa FHD
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/144816.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="DAZN 4", DAZN 4 Europa FHD
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/144817.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="Movistar Deportes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/IMG_20180709_104309.318.png/revision/latest/scale-to-width-down/250?cb=20210430002401&path-prefix=es", Movistar Deportes
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/4339.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-name="Movistar LaLiga" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/movistar-laliga-2034.png", Movistar LaLiga
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/126460.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQah2g5Z4VQKsRNshNGUu0blAnBe4YtU7ce27NfxF6mjQ&s", DAZN LaLiga
 https://deportes.sdfgnksbounce.com:8080/MTg5LjE1MS45NS4xNzk=/43_.m3u8?token=WLKGFtXBQuKc3pirrtxORA&expires=1725109137
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LaLiga" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQah2g5Z4VQKsRNshNGUu0blAnBe4YtU7ce27NfxF6mjQ&s", DAZN LaLiga op2
@@ -106,8 +120,10 @@ http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3719.m3u8
 https://channel05.akamaized.net/hls/live/2033783/event01/index_6.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png", Canal5 FHD op2
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
-#EXTINF:-1 group-title="Pasiones", Pasiones HD
+#EXTINF:-1 group-title="TV_OK", Pasiones HD
 http://redima.pro:8880//live/Pinargoteju/1214/402.m3u8
+#EXTINF:-1 group-title="TV_OK", Pasiones HD op2
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/2827.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/41ae5f7/2147483647/strip/true/crop/980x551+0+101/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fhttp%3A%2F%2Fi.lasestrellas.tv%2F2016%2F08%2Festrellas-logo.png", Canal de las Estrellas
 https://8.tutl24.xyz/live/ST4eddddd18a33416.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Canal de las Estrellas -1" tvg-logo="https://televisa.brightspotcdn.com/dims4/default/41ae5f7/2147483647/strip/true/crop/980x551+0+101/resize/1200x675!/quality/90/?url=https%3A%2F%2Ftelevisa-brightspot.s3.amazonaws.com%2Fapi%2Fhttp%3A%2F%2Fi.lasestrellas.tv%2F2016%2F08%2Festrellas-logo.png", Canal de las Estrellas -1Hr
@@ -163,17 +179,17 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_6.
 https://vals88.pricesaskeloadsc.com/global/azteca7/index.m3u8?token=fe17362600b6ff68f4b1f1617f1e9c0365b613f4-ac-1725127192-1725091192
 
 
-#EXTINF:-1 group-title="4K" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png", Canal 5 4K
+#EXTINF:-1 group-title="TV_OK" tvg-name="Canal 5" tvg-logo="https://cdn.mitvstatic.com/channels/mx_xh-gc-canal-5-hd_m.png", Canal 5
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3719.m3u8
-#EXTINF:-1 group-title="4K" logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" aspect-ratio="16:9", Las Estrellas 4K
+#EXTINF:-1 group-title="TV_OK" logo="https://www.paredro.com/wp-content/uploads/2019/01/Asi%CC%81-evoluciono%CC%81-el-logo-de-Las-Estrellas-el-canal-2-de-Televisa.jpg" aspect-ratio="16:9", Las Estrellas
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3607.m3u8
-#EXTINF:-1 group-title="4K" tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png", A+ 4K
+#EXTINF:-1 group-title="TV_OK" tvg-name="A+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Logo_a%2B_%28canal%29.svg/240px-Logo_a%2B_%28canal%29.svg.png", A+
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3697.m3u8
-#EXTINF:-1 group-title="4K",ADN 40 4K
+#EXTINF:-1 group-title="TV_OK",ADN 40
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3699.m3u8
-#EXTINF:-1 group-title="4K", Azcorazon 4K
+#EXTINF:-1 group-title="TV_OK", Azcorazon
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/129030.m3u8
-#EXTINF:-1 group-title="4K", AXN 4K
+#EXTINF:-1 group-title="TV_OK", AXN
 http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/3602.m3u8
 
 
@@ -203,9 +219,31 @@ https://812.pricesaskeloadsc.com/global/espn5/index.m3u8?token=a0150b6db19bcd88b
 https://xca5.pricesaskeloadsc.com/global/espn6/index.m3u8?token=747bf415c23de54271cf7df38780995387910686-09-1725128206-1725092206
 #EXTINF:-1 group-title="Deportes OK" tvg-name="ESPN7" tvg-logo="https://pnggallery.com/wp-content/uploads/espn-7-logo-01.png", ESPN7 FHD1080p
 https://vasoc88.pricesaskeloadsc.com/global/espn7/index.m3u8?token=b8c5c7adaef845093a4cf5beb04df01419d61dac-e2-1725128347-1725092347
-
 #EXTINF:-1 group-title="Deportes OK" tvg-name="ESPN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/ESPN_2.jpg/revision/latest?cb=20200211195749&path-prefix=es", ESPN FHD1080p
 https://vasoc88.pricesaskeloadsc.com/global/espn1/index.m3u8?token=4fb1e9e2a6a8c941ed824a17926e1af97fc6cbd5-67-1725127706-1725091706
+
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 01
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224542.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 02
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224543.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 03
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224544.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 04
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224545.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 05
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224546.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 06
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224547.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 07
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224548.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 08
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224549.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 09
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224550.m3u8
+#EXTINF:-1 group-title="TV_OK" tvg-logo="https://images.mlssoccer.com/image/private/t_editorial_landscape_12_desktop/mls-dcu-prd/l0qumll4obpua9aqlwcs.png", MLS EVENTO 10
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/224551.m3u8
+
+
 #EXTINF:-1 group-title="Deportes OK" tvg-name="ESPN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/ESPN_2.jpg/revision/latest?cb=20200211195749&path-prefix=es", ESPN2 MX FHD1080p
 http://zeuspro.xyz:8080/live/jo5m3ndoz4/VMsaxEqpfE/1534.m3u8
 #EXTINF:-1 group-title="Deportes OK" tvg-name="ESPN2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e2/ESPN_2.jpg/revision/latest?cb=20200211195749&path-prefix=es", ESPN2 MX HD720p
@@ -227,8 +265,8 @@ https://live.sdfgnksbounce.com:8080/MTg5LjE1MS4zNC4xOTg=/154_.m3u8?token=NCGp0SF
 https://off6.hamaradilhai.com:999/hls/directvlivehd.m3u8?md5=cBQ_RcSN5Bn8GH7igOjh4w&expires=1725101563
 #EXTINF:-1 group-title="Deportes OK" tvg-name="DSports 2" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717484881519", DSports 2
 https://7.tutl24.xyz/live/STa85eed54f39c385.m3u8
-#EXTINF:-1 group-title="Deportes OK" tvg-name="DSports +" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717470869490", DSports +
-https://live.sdfgnksbounce.com:8080/MTg5LjE1MS4zNC4xOTg=/22_.m3u8?token=VJVZc9GbZKNg2KlyNOUsqA&expires=1717620953
+#EXTINF:-1 group-title="TV_OK" tvg-name="DSports +" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717470869490", DSports +
+http://magmas5.com:8000/live/3FVB41H6YK/EPJ3P7X7V8/145403.m3u8
 #EXTINF:-1 group-title="Deportes OK" tvg-name="Bein Sports La Liga" tvg-logo="https://w7.pngwing.com/pngs/752/349/png-transparent-la-liga-bein-sports-3-streaming-media-others-purple-television-violet.png", BeinSports La Liga
 https://live.sdfgnksbounce.com:8080/MTg5LjE1MS4zNC4xOTg=/23_.m3u8?token=veKvDjqWEoFP46BpvBfk1w&expires=1717622537
 #EXTINF:-1 group-title="Deportes OK" tvg-name="DAZN La Liga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/2560px-DAZN_LaLiga_logo.svg.png", DAZN La Liga
